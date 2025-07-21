@@ -51,4 +51,6 @@ This guide is given only for educational and informational objectives. This cont
 
 
 
-Update:  07/18/2025 The link is now available and working perfectly.
+
+
+Update:  21.07.2025
