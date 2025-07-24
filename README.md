@@ -53,4 +53,6 @@ This guide is given only for educational and informational objectives. This cont
 
 
 
-Update:  21.07.2025
+
+
+Update:  24.07.2025 12:04 Link is now responsive and functioning
